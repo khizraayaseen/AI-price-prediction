@@ -67,5 +67,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Clothes Price Prediction project acknowledges the contributions of the open-source community, libraries used, and resources referenced during development.
 
 ---
-
-Feel free to customize this README further based on your specific project requirements and preferences. Happy coding and predicting clothing prices! 🚀

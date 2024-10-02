@@ -2,6 +2,9 @@
 
 Clothes Price Prediction is an AI project developed using Google Colab, Python, and machine learning techniques. This project aims to predict clothing prices by analyzing various features using regression models. After evaluating different regression models such as Decision Tree, Neural Network, Support Vector Classifier, and Lasso Regression, Linear Regression was chosen as the final model due to its superior accuracy.
 
+![image](https://github.com/user-attachments/assets/bd3d911c-a967-42bc-907e-95cbb6d9d665)
+
+
 ## Brief Description
 
 The Clothes Price Prediction project utilizes machine learning algorithms to predict the prices of clothing items based on multiple features. By training a Linear Regression model on a dataset containing relevant features such as brand, material, size, and color, the project achieves accurate predictions of clothing prices.
@@ -65,5 +68,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgements
 
 Clothes Price Prediction project acknowledges the contributions of the open-source community, libraries used, and resources referenced during development.
-
----
